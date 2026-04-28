@@ -3,7 +3,8 @@
 **Disciplina:** PAM0466 – Sistemas Inteligentes  
 **Semestre:** 2026.1  
 **Docente:** Pedro Thiago Valério de Souza  
-**Instituição:** Universidade Federal Rural do Semi-Árido (UFERSA) — Centro Multidisciplinar Pau dos Ferros
+**Instituição:** Universidade Federal Rural do Semi-Árido (UFERSA) — Centro Multidisciplinar Pau dos Ferros  
+**Discentes:** Maria Karoline e Moisés Guilherme
 
 ---
 
