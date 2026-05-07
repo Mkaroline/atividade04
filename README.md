@@ -19,7 +19,9 @@ Este projeto implementa uma **Rede Adaline** para classificação automática de
 ```
 ├── adaline_ionosfera.ipynb   # Notebook principal com código e respostas
 ├── ionosphere.data           # Dataset (baixado automaticamente pelo notebook)
+└── main(1).pdf               #O pdf da atividade
 └── README.md                 # Este arquivo
+
 ```
 
 ---
